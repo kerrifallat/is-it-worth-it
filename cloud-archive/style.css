@@ -12,5 +12,27 @@ text-shadow: 2px 20px 50px yellow;
 text-decoration: none;
 border-bottom: 12px solid cornflowerblue;
 line-height: 100px;
+}
+
+.trauma {
+font-weight: bold;
+font-family: cursive;
+margin: 20px 20px 20px;
+border-bottom: 15px solid mediumslateblue;
+}
+
+
+.wounds {
+background-color: thistle;
+
+
+}
+
+.memories {
+color: navy;
+font-family: cursive;
+font-weight: bolder;
+line-height: 600px;
+text-shadow: 2px 20px 50px chartreuse;
 
 }
