@@ -49,3 +49,22 @@ p {
   font-size: 80px;
   padding: 20px; 
 }
+
+
+.special {
+color: black;
+position: relative;
+top: 20px;
+left: 100px;
+border: 3px solid green;
+display: block;
+padding: 40px;
+}
+
+.ppp {
+
+  color: brown;
+  position: absolute;
+  top: 30%;
+  left: -5%;
+}
