@@ -36,3 +36,16 @@ line-height: 600px;
 text-shadow: 2px 20px 50px chartreuse;
 
 }
+
+p {
+  padding: 40px;
+}
+
+.block {
+  display: block;
+  margin: 80px 80px 80px 80px;
+  border: 2px solid cornflowerblue;
+  border bottom: 0px;
+  font-size: 80px;
+  padding: 20px; 
+}
