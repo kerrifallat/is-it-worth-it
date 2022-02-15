@@ -4,3 +4,13 @@ body {
 
 
 }
+
+a {
+color: hotpink;
+font-size: 136px;
+text-shadow: 2px 20px 50px yellow;
+text-decoration: none;
+border-bottom: 12px solid cornflowerblue;
+line-height: 100px;
+
+}
