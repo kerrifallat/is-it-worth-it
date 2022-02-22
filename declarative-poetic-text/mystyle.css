@@ -16,11 +16,12 @@ h2{
 
 }
 body{
-  font-weight:600pt;
+  font-weight:bold;
   padding-left:50px;
   padding-right:50px;
   font-family:'roboto',sans-serif, bold;
   font-size:20px;
+  color:black;
   
   
    
