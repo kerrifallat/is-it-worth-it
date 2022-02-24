@@ -1,0 +1,63 @@
+<!doctype HTML>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title></title>
+  </head>
+  <body>
+	all writing goes in here…
+
+let today = new Date();
+	let hour = today.getHours();
+	let message;
+	let messageContainer = document.getElementById("message");
+
+	if (hour >=18) {
+		message = "good evening :-)"
+	} else if (hour >=12) {
+		message = "good afternooon"
+	} else {
+		message = "good morn!"
+	}
+
+	messageContainer.innerHTML = message;
+    <p id="message">message about the time of day</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script src= "script.js"></script>
+</body>
+</html>
