@@ -1,22 +1,19 @@
 console.log("javascript is working!")
+// When the user scrolls down 20px from the top of the document, resize the header's font size
+window.onscroll = function() {scrollFunction()};
 
-let color=pink;
-let count = 0
-let message = document.getElementById("the-internet");
-
-document.body.addEventListener("click", theInternetIs)
-
-function theInternetIs() {
-	count++
-	if (message.innerHTML === "the internet is in the ground") {
-		message.innerHTML = "the internet is in the clouds";
-		message.classList.add("cloud-texture");
-	} else if (count >=3) {
-		message.innerHTML = "click this page to find out where the internet is...";
-	} else {
-		message.innerHTML = "the internet is in the ground";
-		if (message.classList.contains("cloud-texture")) {
-			message.classList.remove("cloud-texture");
-		}
-	}
+function scrollFunction() {
+  if (document.body.scrollTop > 50 || document.documentElement.scrollTop > 50) {
+    document.getElementById("titleheader").style.fontSize = "40px";
+  } else {
+    document.getElementById("titleheader").style.fontSize = "90px";
+  }
 }
+var add = (function () {
+	var counter = 0;
+	return function () {return counter += 1;}
+  })();
+  
+  function myFunction(){
+	document.getElementById("hyperlink").innerHTML = add();
+  }
