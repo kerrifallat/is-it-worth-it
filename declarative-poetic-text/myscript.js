@@ -17,3 +17,9 @@ var add = (function () {
   function myFunction(){
 	document.getElementById("hyperlink").innerHTML = add();
   }
+  function clicks() {
+	// declare a new function called clicks
+	count++
+	console.log(count)
+	// everytime this function is called, add 1 to the count variable
+	;}

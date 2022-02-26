@@ -1,0 +1,79 @@
+<!doctype HTML>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title></title>
+    <link rel="stylesheet" type="text/css" href="overflowstyle.css">
+  <style>
+    
+  </style>
+  </head>
+  <h1 span class="glow">HAVE TO MAKE THEM STOP SO THEY CAN START
+    <span class="again">AGAIN</h1>
+  <h2>By Kerri A. Fallat</h2>
+<style>
+    html.body{
+        font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        background: #212121;
+        height: 100%;
+
+    }
+
+.container{
+    height: 100%;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+
+}
+
+.text{
+    font-weight:100%;
+    font-size:20%;
+    color: #fafafa;
+
+
+}
+
+.img{
+    height:20px;
+    width:20px;
+}
+
+</style>
+
+
+ <body>
+    <img src="man-spiraling.gif" alt="man spiraling">.
+
+<div class="container">
+<div class="text"></div>
+</div>
+<script src="scamble.js"></script>
+
+<script>
+
+const phrases = ['HAVE TO MAKE THEM STOP SO THEY CAN START AGAIN'];
+
+const el = document.querySelector ('.text');
+const fx = new.TextScramble(el);
+let counter = 0;
+
+const next = () => {
+    fx.setText(phrases[counter]).then(() => {
+        setTimeout(next, 800);
+
+
+    });
+    counter = (counter +1) % phrases.length;
+
+};
+
+next();
+
+
+</script>
+  </body>
+</html>
