@@ -1,5 +1,5 @@
 h1{
-    border:5px dotted yellow;
+    position: center;
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     color:rgb(117, 42, 187);
     font-size:60px;
@@ -7,12 +7,13 @@ h1{
    
 }
 .again{
+    position:center;
     color:rgb(226, 96, 21);
     margin:70px;
 
 }
 .glow {
-    background-color: rgb(83, 84, 85);
+    background-color:black;
     font-size: 80px;
     color: rgb(162, 235, 27);
     text-align: center;
@@ -29,36 +30,65 @@ h1{
       text-shadow: 0 0 20px #fff, 0 0 30px #ff4da6, 0 0 40px #ff4da6, 0 0 50px #ff4da6, 0 0 60px #ff4da6, 0 0 70px #ff4da6, 0 0 80px #ff4da6;
     }
     
-
-h2{
-    padding-top:50px;
-    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    color:rgb(226, 96, 21);
-    font-size:20px;
-}
-
-.p{
-padding-top:90px;
-padding: bottom 80pxl;
-border:3px dotted black;
-background-color: rgb(128, 133, 138);
-font-family:'Courier New', Courier, monospace;
-font-size: 20px;
-color:rgb(226, 96, 21);
-
-}
   }
 html{
-background-color: rgb(29, 27, 27);
-padding-top:90px;
-padding: bottom 80pxl;
-font-family:'Courier New', Courier, monospace;
-font-size: 20px;
-color:white;
+background-color: black;
+padding-top:20px;
+padding: bottom 80px;
+margin:150px;
+
+
 }
 
-img{
-  height:250px;
-  
- 
+body{
+margin-top:100px;
+padding: bottom 80px;
+background-color:black;
+font-family:'Courier New', Courier, monospace;
+font-size: 20px;
+font-weight:bold;
+color:rgb(162, 235, 27);
+
+
 }
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+  display: flex;
+}
+
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+  flex:33.3%;
+  padding:5px;
+}
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+  display: flex;
+}
+
+.row::after {
+  float: "";
+  clear: both;
+  display: table;
+  flex:33.3%;
+  padding:5px;
+}
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+  flex:33.3%;
+  padding:5px;
+}
+h2{
+  padding-top:50px;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  color:rgb(226, 96, 21);
+  font-size:20px;
+  background-color: black;
