@@ -1,0 +1,60 @@
+html{
+    box-sizing: border-box;
+}
+*, *:before, *after{
+    box-sizing: inherit;
+}
+
+
+
+
+
+body{
+    background-color: blueviolet;
+    padding:20px;
+}
+*{
+    color:black;
+}
+a{
+    display:block;
+    font-size:20px;
+    color:orange;
+    margin-bottom:16px;
+    text-shadow: 2px 2px 10px yellow;
+    
+}
+.link-container{
+    border: 2px solid black;
+    
+}
+.left,.right{
+    border:2px solid green;
+}
+
+@media screen and (min-width: 768px) {
+
+    body{
+        background-color: rgb(9, 255, 0);
+    }
+    a{
+        font-size: 40px;
+
+    }
+    .link-container{
+        display:flex;
+        flex-direction: row-reverse;
+        width:100%;
+    }
+    .left, .right{
+        width:50%;
+    }
+}
+@media screen and (min-width: 1400px) {
+    body{
+        background-color: pink;
+    }
+    a{
+        font-size:60px;
+    }
+}
