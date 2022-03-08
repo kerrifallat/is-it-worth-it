@@ -10,13 +10,13 @@ function scrollFunction() {
   }
 }
 let counter = 0;
-let button = document.querySelector(".hyperlink");
+let button = document.querySelector(".link");
 console.log(counter);
 
 
-button.addEventListener("click", addHyperLink);
+button.addEventListener("click", addLink);
 
-function addHyperLink() {
+function addLink() {
 	button.classList.toggle("red-border");
 	counter++;
 	console.log(counter);
