@@ -14,7 +14,7 @@ let button = document.querySelector(".link");
 console.log(counter);
 
 
-button.addEventListener("click", addLink);
+button.addEventListener("click", addRedBorder);
 
 function addLink() {
 	button.classList.toggle("red-border");
