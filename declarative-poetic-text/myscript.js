@@ -9,17 +9,16 @@ function scrollFunction() {
     document.getElementById("titleheader").style.fontSize = "90px";
   }
 }
-var add = (function () {
-	var counter = 0;
-	return function () {return counter += 1;}
-  })();
-  
-  function myFunction(){
-	document.getElementById("hyperlink").innerHTML = add();
-  }
-  function clicks() {
-	// declare a new function called clicks
-	count++
-	console.log(count)
-	// everytime this function is called, add 1 to the count variable
-	;}
+let counter = 0;
+let button = document.querySelector(".hyperlink");
+console.log(counter);
+
+
+button.addEventListener("click", addHyperLink);
+
+function addHyperLink() {
+	button.classList.toggle("red-border");
+	counter++;
+	console.log(counter);
+
+	}
