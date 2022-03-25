@@ -1,0 +1,37 @@
+body, html{
+    height: 100%;
+    height:100%;
+/* Full height */
+  height: 100%;
+  
+
+ background-image:url("glitter-dust-background.jpeg");
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat:repeat-x;
+  background-size: cover;
+  overflow: hidden;
+
+}
+
+}
+body{
+    margin-left: 40px;
+    font-family: 'Indie Flower', cursive;
+    font-size:40px;
+    color:rgb(148, 20, 223);
+    text-shadow: rgb(231, 71, 125);
+    font-size: 40px;
+   
+
+}
+.centered{
+    font-size: 120px;
+    color:rgb(148, 20, 223);
+    font-family: 'Indie Flower', cursive;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  
+}

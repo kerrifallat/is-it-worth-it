@@ -1,0 +1,61 @@
+html{
+    background-color: whitesmoke;
+}
+.image{
+    
+    display:block;
+    border: 1px solid #ddd;
+      border-radius: 4px;
+      padding-left:2000pt;
+      padding-top:5pt;
+      width: 5px;
+      position: absolute;
+      margin-top:5px;
+      margin-left:20px;
+      margin-top:auto;
+      margin-right:100px;
+}
+
+ body,.p{
+    font-family: 'Permanent Marker', cursive;
+    color:black;
+    font-size:50px;
+    margin-right:70px;
+    margin-left:70px;
+    margin-top:120px;
+    padding-top:230px;
+    padding-left:50px;
+    padding-right:50px;
+}
+
+h1{
+    font-family: 'Permanent Marker', cursive;
+    color:black;
+    font-size:100px;
+
+}
+
+a:link{
+/* unvisited link */
+color: hotpink;
+
+}
+  
+}
+  /* visited link */
+  a:visited {
+    color: green;
+  }
+  
+  /* mouse over link */
+  a:hover {
+    color: hotpink;
+  }
+  
+  /* selected link */
+  a:active {
+    color: blue;
+  }
+
+    
+}

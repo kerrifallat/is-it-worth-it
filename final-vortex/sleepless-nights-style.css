@@ -1,0 +1,58 @@
+html{
+    background-color: rgb(140, 238, 13);
+    margin-left:20px;
+}
+.image{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  border-radius:8px;
+  height:auto;
+  margin:1in 1in 1in 1in;
+  padding:20px 20px 20px 20px;
+}
+h1{
+  padding-left:10px;
+    font-size:140pt;
+    font-family:'Eater', cursive;
+    color:red;
+}
+a{
+    font-family:'Nanum Brush Script', cursive;
+    font-size:60pt;
+    color: rgb(235, 18, 235);
+    text-decoration: none;
+    
+}
+.p, body{
+  font-size:60pt;
+  padding-left:10px;
+  padding-right:10px;
+  font-family:fantasy;
+ 
+}
+/* unvisited link */
+a:link {
+    color: rgb(235,18,235);
+  }
+  
+  /* visited link */
+  a:visited {
+    color: rgb(118, 18, 233);
+  }
+  
+  /* mouse over link */
+  a:hover {
+    color: rgb(240, 9, 9);
+  }
+  
+  /* selected link */
+  a:active {
+    color: blue;
+  }
+
+.return{
+    color:red;
+   
+}

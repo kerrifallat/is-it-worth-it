@@ -1,0 +1,39 @@
+html{
+    background-color: white;
+    border:10px dotted red;
+    margin-left:1in;
+    margin-right:1in;
+    margin-top:1in;
+    margin-bottom:1in;
+    
+}
+.arms-column,.arms-top-2{
+    max-height: 5pt;
+    float:left;
+    padding-bottom:600pt;
+    flex-direction:column;
+    
+    
+}
+.barbie-image{
+    height:80%;
+    margin-top:1000pt;
+    margin-bottom:40pt;
+    padding-top:40pt;
+    border:12pt solid red;
+    border-radius: 10pt;
+    border-width:10%;
+    
+   
+   
+    
+
+}
+body{
+    margin-top:40px;
+    font-family:'Nothing You Could Do', cursive; 
+    font-size:50pt;
+    color:red;
+    padding-left:600pt;
+    padding-right:60pt;
+}
