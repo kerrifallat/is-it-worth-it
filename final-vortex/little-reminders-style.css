@@ -1,0 +1,39 @@
+html{
+    background-color: white;
+}
+
+h1{
+    margin-left:10in;
+    font-size:240pt;
+    color:black;
+    font-family: 'Dokdo', cursive;
+    padding-left:20pt;
+    padding-right:20pt;
+}
+h2{
+    margin-left:4in;
+    font-size:70pt;
+    color:black;
+    font-family: 'Dokdo', cursive;
+    padding-left:20pt;
+    padding-right:20pt;
+}
+.image-of-rock{
+    height:30%;
+    padding: 5pt 5pt 5pt 5pt;
+}
+body{
+    margin-left:10in;
+    font-size:80pt;
+    font-family:'Dokdo', cursive; 
+    color:black;
+    padding-left:20pt;
+    padding-right:20pt;
+
+}
+.p{
+    margin-left:5in;
+    margin-right:5in;
+    padding-right:40pt;
+    padding-left:20pt;
+}
