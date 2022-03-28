@@ -4,6 +4,7 @@ html{
 h1{
     font-family: 'Iceland', cursive;
     font-size:120pt;
+    color: red;
 }
 .p{
     font-family:'Iceland', cursive;
@@ -66,4 +67,4 @@ input[type=button], input[type=submit], input[type=reset] {
     margin: 4px 2px;
     cursor: pointer;
   }
-  
+  x

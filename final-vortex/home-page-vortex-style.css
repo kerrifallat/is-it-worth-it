@@ -1,3 +1,210 @@
 html{
-    background-color: black;;
+    background-color: white;
+}
+h1{
+    font: size 120pt;
+    color:black;
+    font-family:'Fontdiner Swanky', cursive;
+    position: relative;
+    text-align: center;
+
+}
+h2{
+    font-size:50pt;
+    color:black;
+    font-family:'Fontdiner Swanky', cursive;
+}
+body{
+    font-size:70pt;
+    color:black;
+    font-family: 'Fontdiner Swanky', cursive;
+    padding:20px;
+
+}
+.large-circle{
+  display: block;
+  width: 18px;
+  height: 18px;
+  border-radius: 100%;
+  background-color: #2ed091;
+  padding: 15px;
+  outline: 1px solid black;
+}
+.little-circles {
+    background:transparent;
+    border:5px solid black;
+    border-radius: 50%;
+    width: 2000pt;
+    height: 2000pt;
+    position: center, relative;
+    padding-left:20px;
+    display: block;
+    margin-left: auto;
+    margin-right:auto;
+    margin-bottom:50px;
+   
+ }
+ .image-of-wheel{
+     position:center, relative;
+     display:block;
+     margin-right: auto;
+     margin-left:auto;
+     width:50%;
+ }
+.circle-one{
+background:blue;
+height: 20%;
+  width: 20%;
+  border-radius: 50%;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  padding:10px;
+  font:70pt 'Fontdiner Swanky', cursive;;
+  text-align:center;
+  line-height:120px;
+}
+.circle-two{
+    background:blue;
+height: 20%;
+  width: 20%;
+  border-radius: 50%;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  padding:10px;
+  font:70pt 'Fontdiner Swanky', cursive;;
+  text-align:center;
+  line-height:120px;
+}
+.circle-three{
+    background:blue;
+height: 20%;
+  width: 20%;
+  border-radius: 50%;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  padding:10px;
+  font:70pt 'Fontdiner Swanky', cursive;;
+  text-align:center;
+  line-height:120px;
+}
+.circle-four{
+    background:blue;
+height: 20%;
+  width: 20%;
+  border-radius: 50%;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  padding:10px;
+  font:70pt 'Fontdiner Swanky', cursive;;
+  text-align:center;
+  line-height:120px;
+}
+.circle-five{
+    background:blue;
+height: 20%;
+  width: 20%;
+  border-radius: 50%;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  padding:10px;
+  font:70pt 'Fontdiner Swanky', cursive;;
+  text-align:center;
+  line-height:120px;
+
+}
+.circle-six{
+    background:blue;
+height: 20%;
+  width: 20%;
+  border-radius: 50%;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  padding:10px;
+  font:70pt 'Fontdiner Swanky', cursive;;
+  text-align:center;
+  line-height:120px;
+}
+.circle-seven{
+    background:blue;
+height: 20%;
+  width: 20%;
+  border-radius: 50%;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  padding:10px;
+  font:70pt 'Fontdiner Swanky', cursive;;
+  text-align:center;
+  line-height:120px;
+}
+.circle-eight{
+    background:blue;
+height: 20%;
+  width: 20%;
+  border-radius: 50%;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  padding:10px;
+  font:70pt 'Fontdiner Swanky', cursive;;
+  text-align:center;
+  line-height:120px;
+}
+.circle-nine{
+    background:blue;
+height: 20%;
+  width: 20%;
+  border-radius: 50%;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  padding:10px;
+  font:70pt 'Fontdiner Swanky', cursive;;
+  text-align:center;
+  line-height:120px;
+}
+.circle-ten{
+    background:blue;
+height: 20%;
+  width: 20%;
+  border-radius: 50%;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  padding:10px;
+  font:70pt 'Fontdiner Swanky', cursive;;
+  text-align:center;
+  line-height:120px;
+}
+.circle-eleven{
+    background:blue;
+height: 20%;
+  width: 20%;
+  border-radius: 50%;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  padding:10px;
+  font:70pt 'Fontdiner Swanky', cursive;;
+  text-align:center;
+  line-height:120px;
+}
+.circle-twelve{
+    background:blue;
+height: 20%;
+  width: 20%;
+  border-radius: 50%;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  padding:10px;
+  font:70pt 'Fontdiner Swanky', cursive;;
+  text-align:center;
+  line-height:120px;
 }
