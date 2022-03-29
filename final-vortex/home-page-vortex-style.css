@@ -2,7 +2,7 @@ html{
     background-color: white;
 }
 h1{
-    font: size 120pt;
+    font-size:230pt;
     color:black;
     font-family:'Fontdiner Swanky', cursive;
     position: relative;
@@ -10,9 +10,12 @@ h1{
 
 }
 h2{
-    font-size:50pt;
+    font-size:30pt;
     color:black;
     font-family:'Fontdiner Swanky', cursive;
+    float:right;
+    padding-right:20px;
+    margin: 2in 2in 2in 2in;
 }
 body{
     font-size:70pt;
@@ -21,18 +24,11 @@ body{
     padding:20px;
 
 }
-.large-circle{
-  display: block;
-  width: 18px;
-  height: 18px;
-  border-radius: 100%;
-  background-color: #2ed091;
-  padding: 15px;
-  outline: 1px solid black;
-}
-.little-circles {
+
+
+.large-circle {
     background:transparent;
-    border:5px solid black;
+    border:10px solid black;
     border-radius: 50%;
     width: 2000pt;
     height: 2000pt;
@@ -44,167 +40,187 @@ body{
     margin-bottom:50px;
    
  }
- .image-of-wheel{
-     position:center, relative;
-     display:block;
-     margin-right: auto;
-     margin-left:auto;
-     width:50%;
+ img{
+  width:2000pt;
+  height:2000pt;
+  position:center, relative;
+  display:inline-block;
+  margin-left: auto;
+  margin-right:auto;
+  margin-bottom:20px;
+ 
+  
+  
  }
 .circle-one{
-background:blue;
-height: 20%;
-  width: 20%;
+height: 440pt;
+  width:440pt;
   border-radius: 50%;
-  background-color: #bbb;
   border-radius: 50%;
   display: inline-block;
-  padding:10px;
-  font:70pt 'Fontdiner Swanky', cursive;;
+  padding:60pt;
+  margin-left:5in;
+  font:70pt 'Fontdiner Swanky', cursive;
+  background-color: rgb(153, 11, 248);
   text-align:center;
-  line-height:120px;
+  line-height:70pt;
+ position:relative; top:20pt;
+  
 }
+
 .circle-two{
-    background:blue;
-height: 20%;
-  width: 20%;
-  border-radius: 50%;
-  background-color: #bbb;
+height:440pt;
+  width:440pt;
   border-radius: 50%;
   display: inline-block;
-  padding:10px;
+  border-radius: 50%;
+  padding:60pt;
   font:70pt 'Fontdiner Swanky', cursive;;
   text-align:center;
-  line-height:120px;
+  line-height:70pt;
+  background-color: aqua;
+  
+
 }
 .circle-three{
-    background:blue;
-height: 20%;
-  width: 20%;
+height: 520pt;
+  width: 520pt;
   border-radius: 50%;
-  background-color: #bbb;
   border-radius: 50%;
   display: inline-block;
-  padding:10px;
+  padding:60pt;
   font:70pt 'Fontdiner Swanky', cursive;;
   text-align:center;
-  line-height:120px;
+  line-height:70pt;
+  background-color: rgb(106, 206, 172);
+ 
 }
 .circle-four{
-    background:blue;
-height: 20%;
-  width: 20%;
-  border-radius: 50%;
-  background-color: #bbb;
-  border-radius: 50%;
-  display: inline-block;
-  padding:10px;
-  font:70pt 'Fontdiner Swanky', cursive;;
-  text-align:center;
-  line-height:120px;
+height: 500pt;
+width: 500pt;
+border-radius: 50%;
+border-radius: 50%;
+display: inline-block;
+padding:60pt;
+font:70pt 'Fontdiner Swanky', cursive;;
+text-align:center;
+line-height:70pt;
+background-color: rgb(218, 108, 181);
+
 }
 .circle-five{
-    background:blue;
-height: 20%;
-  width: 20%;
-  border-radius: 50%;
-  background-color: #bbb;
-  border-radius: 50%;
-  display: inline-block;
-  padding:10px;
-  font:70pt 'Fontdiner Swanky', cursive;;
-  text-align:center;
-  line-height:120px;
+height:440pt;
+width:440pt;
+border-radius: 50%;
+border-radius: 50%;
+display: inline-block;
+padding:60pt;
+font:70pt 'Fontdiner Swanky', cursive;;
+text-align:center;
+line-height:70pt;
+background-color: greenyellow;
+
 
 }
 .circle-six{
-    background:blue;
-height: 20%;
-  width: 20%;
-  border-radius: 50%;
-  background-color: #bbb;
-  border-radius: 50%;
-  display: inline-block;
-  padding:10px;
-  font:70pt 'Fontdiner Swanky', cursive;;
-  text-align:center;
-  line-height:120px;
+height: 440pt;
+width: 440pt;
+border-radius: 50%;
+border-radius: 50%;
+display: inline-block;
+padding:60pt;
+font:70pt 'Fontdiner Swanky', cursive;;
+text-align:center;
+line-height:70pt;
+background-color:orange;
+
 }
 .circle-seven{
-    background:blue;
-height: 20%;
-  width: 20%;
-  border-radius: 50%;
-  background-color: #bbb;
-  border-radius: 50%;
-  display: inline-block;
-  padding:10px;
-  font:70pt 'Fontdiner Swanky', cursive;;
-  text-align:center;
-  line-height:120px;
+height: 440pt;
+width: 440pt;
+border-radius: 50%;
+border-radius: 50%;
+display: inline-block;
+padding:60pt;
+font:70pt 'Fontdiner Swanky', cursive;;
+text-align:center;
+line-height:70pt;
+background-color: rgb(223, 223, 21);
+
 }
 .circle-eight{
-    background:blue;
-height: 20%;
-  width: 20%;
-  border-radius: 50%;
-  background-color: #bbb;
-  border-radius: 50%;
-  display: inline-block;
-  padding:10px;
-  font:70pt 'Fontdiner Swanky', cursive;;
-  text-align:center;
-  line-height:120px;
+height:440pt;
+width:440pt;
+border-radius: 50%;
+border-radius: 50%;
+display: inline-block;
+padding:60pt;
+font:70pt 'Fontdiner Swanky', cursive;;
+text-align:center;
+line-height:70pt;
+background-color: rgb(209, 91, 91);
+
 }
 .circle-nine{
-    background:blue;
-height: 20%;
-  width: 20%;
-  border-radius: 50%;
-  background-color: #bbb;
-  border-radius: 50%;
-  display: inline-block;
-  padding:10px;
-  font:70pt 'Fontdiner Swanky', cursive;;
-  text-align:center;
-  line-height:120px;
+height:440pt;
+width:440pt;
+border-radius: 50%;
+border-radius: 50%;
+display: inline-block;
+padding:60pt;
+font:70pt 'Fontdiner Swanky', cursive;;
+text-align:center;
+line-height:70pt;
+background-color: rgb(71, 160, 182);
+
 }
 .circle-ten{
-    background:blue;
-height: 20%;
-  width: 20%;
-  border-radius: 50%;
-  background-color: #bbb;
-  border-radius: 50%;
-  display: inline-block;
-  padding:10px;
-  font:70pt 'Fontdiner Swanky', cursive;;
-  text-align:center;
-  line-height:120px;
+height:440pt;
+width:440pt;
+border-radius: 50%;
+border-radius: 50%;
+display: inline-block;
+padding:60pt;
+font:70pt 'Fontdiner Swanky', cursive;;
+text-align:center;
+line-height:70pt;
+background-color:plum;
 }
 .circle-eleven{
-    background:blue;
-height: 20%;
-  width: 20%;
-  border-radius: 50%;
-  background-color: #bbb;
-  border-radius: 50%;
-  display: inline-block;
-  padding:10px;
-  font:70pt 'Fontdiner Swanky', cursive;;
-  text-align:center;
-  line-height:120px;
+background:blue;
+height:440pt;
+width: 440pt;
+border-radius: 50%;
+border-radius: 50%;
+display: inline-block;
+padding:60pt;
+font:70pt 'Fontdiner Swanky', cursive;;
+text-align:center;
+line-height:70pt;
+background-color:bisque;
+
 }
 .circle-twelve{
-    background:blue;
-height: 20%;
-  width: 20%;
-  border-radius: 50%;
-  background-color: #bbb;
-  border-radius: 50%;
-  display: inline-block;
-  padding:10px;
-  font:70pt 'Fontdiner Swanky', cursive;;
-  text-align:center;
-  line-height:120px;
+height:440pt;
+ width:440pt;
+border-radius: 50%;
+border-radius: 50%;
+display: inline-block;
+padding:60pt;
+font:70pt 'Fontdiner Swanky', cursive;
+text-align:center;
+line-height:70pt;
+background-color:rgb(172, 224, 172);
+
 }
+
+a{
+  color:black;
+  text-align: center;
+
+}
+
+.circle-one{
+  color:white;
+}
+ 
