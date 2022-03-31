@@ -1,0 +1,101 @@
+html{
+    background-color: white;
+}
+h1{
+    font-size:40px;
+    color:black;
+    font-family:'Fontdiner Swanky', cursive;
+    position: relative;
+    text-align: center;
+
+}
+h2{
+    font-size:15px;
+    color:black;
+    font-family:'Fontdiner Swanky', cursive;
+    float:right;
+    padding-right:20px;
+    margin: 2in 2in 2in 2in;
+}
+body{
+    font-size:30px;
+    color:black;
+    font-family: 'Fontdiner Swanky', cursive;
+    padding:20px;
+
+}
+
+
+.large-circle {
+    background:transparent;
+    border:10px solid black;
+    border-radius: 50%;
+    width: 800px;
+    height: 800px;
+    position: relative;
+    padding-left:20px;
+    display: block;
+    margin-left: auto;
+    margin-right:auto;
+    margin-bottom:50px;
+   
+ }
+ img{
+  width:800px;
+  height:800px;
+  position:center, relative;
+  display:inline-block;
+  margin-left: auto;
+  margin-right:auto;
+  margin-bottom:20px;
+
+ }
+ .circle-style {
+    border: 20px solid orange;
+    position: absolute;
+ }
+.circle-one{
+    height: 90px;
+    width: 90px;
+    border-radius: 50%;
+    border-radius: 50%;
+    padding: 30px;
+    font-size: 16px;
+    word-wrap: break-word;
+    font-family: 'Fontdiner Swanky', cursive;
+    background-color: rgb(153, 11, 248);
+    text-align:center;
+    top: -50px;
+    left:  320px; 
+}
+
+
+
+.circle-two {
+    height: 90px;
+    width: 90px;
+    border-radius: 50%;
+    border-radius: 50%;
+    padding: 30px;
+    font-size: 16px;
+    word-wrap: break-word;
+    font-family: 'Fontdiner Swanky', cursive;
+    background-color: rgb(153, 11, 248);
+    text-align:center;
+    top: 100px;
+    left:  720px; 
+    background-color: aqua;
+}
+
+
+a {
+    display: block;
+  color:black;
+  
+
+}
+
+.circle-one{
+  color:white;
+}
+ 
