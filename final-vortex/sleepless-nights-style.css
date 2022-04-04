@@ -18,7 +18,7 @@ h1{
   padding-right:20px;
   margin-left:60px;
   font-size:70px;
-  font-family:'Eater', cursive;
+  font-family:'Rubik Wet Paint', cursive;
   color:red;
 }
 a{
@@ -31,55 +31,6 @@ a{
 .poem{
   float:right;
   font-size:15px;
-  margin-left:70px;
-  margin-right:90px;
-  padding-right:20px;
-  font-family:fantasy;
-}
-
-}
-/* unvisited link */
-a:link {
-    color: rgb(235,18,235);
-
-    
-  }
-  
-  /* visited link */
-  a:visited {
-    color: rgb(118, 18, 233);
-  }
-  
-  /* mouse over link */
-  a:hover {
-    color: rgb(240, 9, 9);
-  }
-  
-  /* selected link */
-  a:active {
-    color: blue;
-  }
-
-.return{
-    color:red;
-    
-   
-}
-*\
-body{
-  font-size:15px;
-  padding-left:70px;
-  margin-left:70px;
-  margin-right:90px;
-  padding-right:20px;
-  font-family:fantasy;
-  
-
-}
-.poem{
-  float:right;
-  font-size:15px;
-  padding-left:70px;
   margin-left:70px;
   margin-right:90px;
   padding-right:20px;
