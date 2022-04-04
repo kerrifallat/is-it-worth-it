@@ -10,17 +10,16 @@ body{
     font-family: 'Press Start 2P', cursive;
     color:white;
     font-size: 15px;
-    
-    
 
 }
 .spiral-image{
     animation-iteration-count: infinite;
-    height:5px;
-    width:5px;
+    max-height:2px;
+    max-width:2px;
     padding-bottom:500px;
     padding-right:100px;
     padding-top:1px;
+    object-fit:contain;
     
 }
 h1{

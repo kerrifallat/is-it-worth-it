@@ -3,37 +3,43 @@ html{
 }
 
 h1{
-    margin-left:10in;
-    font-size:240pt;
+    margin-left:10px;
+    font-size:70px;
     color:black;
     font-family: 'Dokdo', cursive;
-    padding-left:20pt;
-    padding-right:20pt;
+    padding-left:20px;
+    padding-right:20px;
 }
 h2{
-    margin-left:4in;
-    font-size:70pt;
+    margin-left:4px;
+    font-size:40px;
     color:black;
     font-family: 'Dokdo', cursive;
-    padding-left:20pt;
-    padding-right:20pt;
+    padding-left:20px;
+    padding-right:20px;
 }
 .image-of-rock{
-    height:30%;
-    padding: 5pt 5pt 5pt 5pt;
+    max-height:10px;
+    max-width:10px;
+    padding: 5px 5px 5px 5px;
+    border: 5px solid red;
 }
 body{
-    margin-left:10in;
-    font-size:80pt;
+    margin-left:20px;;
+    font-size:20px;
     font-family:'Dokdo', cursive; 
     color:black;
-    padding-left:20pt;
-    padding-right:20pt;
+    padding-left:20px;
+    padding-right:20px;
 
 }
 .p{
-    margin-left:5in;
-    margin-right:5in;
-    padding-right:40pt;
-    padding-left:20pt;
+    margin-left:20px;
+    margin-right:20px;
+    padding-right:20px;
+    padding-left:20px;
+    font-size:20px;
+}
+a{
+    font-size:20px;
 }
