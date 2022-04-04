@@ -3,7 +3,7 @@ html{
 }
 h1{
     font-family: 'Monoton', cursive;
-    font-size:130px;
+    font-size:80px;
     color:white;
     padding-top:30px;
     animation: color-change 5s infinite;
@@ -15,7 +15,7 @@ h1{
 }
 h2{
     font-family: 'Monoton', cursive;
-    font-size:100px;
+    font-size:50px;
     color:white;
     padding-top:30px;
     animation: color-change 5s infinite;
@@ -26,14 +26,14 @@ h2{
 }
 h3{
     font-family: 'Monoton', cursive;
-    font-size:70px;
+    font-size:20px;
     color:white;
     padding-top:30px;
     animation: color-change 5s infinite;
     margin-top:5px;
     margin-right:10px;
     margin-bottom:15px;
-    margin-left:900px;
+    margin-left:700px;
 }
 @keyframes color-change {
     0% { color: rgb(247, 8, 247); }
@@ -47,16 +47,16 @@ h3{
     90% {color:rgb(235, 187, 235);}
     100% {color:white;}
   }
-body{
+body, .p{
     font-family: 'Rock Salt', cursive;
-    font-size:35px;
+    font-size:20px;
     color:white;
-    padding-left:40px;
+    padding-left:50px;
     padding-right:40px;
     padding-bottom:40px;
     padding-top:5px;
-    margin-top:5px;
-    margin-left:20px;
+    margin-top:2px;
+    margin-left:30px;
     margin-right: 10px;
     margin-bottom:10px;
 }
