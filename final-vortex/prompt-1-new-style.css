@@ -21,6 +21,13 @@ h1{
     padding-bottom:20px;
     padding-right:20px;
     display:block;
+    
+}
+.button{
+    font-size:60px;
+    margin-top:720px;
+    margin-left:10px;
+    margin-right:50px;
 }
 body{
     font-family:'Iceland', cursive;
