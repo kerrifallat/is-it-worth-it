@@ -19,10 +19,9 @@ h2{
     padding-right:20px;
 }
 .image-of-rock{
-    max-height:10px;
-    max-width:10px;
+    
     padding: 5px 5px 5px 5px;
-    border: 5px solid red;
+    
 }
 body{
     margin-left:20px;;
