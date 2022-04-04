@@ -3,7 +3,7 @@ html{
 }
 h1{
     color:black;
-    font: size 120pt;
+    font-size:80px;
     font-family: 'Averia Gruesa Libre', cursive;
     padding:50px;
   
@@ -11,17 +11,24 @@ h1{
 }
 body{
     font-family: 'Averia Gruesa Libre', cursive;
-    font-size:60pt;
+    font-size:40px;
     color:black;
-    padding:50px;
-    margin:5in,
-}
-.image-of-lilypad{
-    height:70%;
-    padding:20px;
-    margin:1in;
+    padding-top:50px;
+    padding-left:40px;
+    padding-right:40px;
+    margin-top:20px;
+    margin-left:40px;
+    margin-right:40px;
+    margin-bottom:20px;
     
 }
+.image-of-lilypad{
+    padding:20px;
+    margin-top:50px;
+    padding-top:50px;
+    
+}
+
 
 
 .textbox{
@@ -34,13 +41,19 @@ input[type="text"] {
     width: 200%;
     padding:600px;
     margin-bottom:50%;
-    border:10pt dotted rgb(33, 137, 185);
+    border:10px dotted rgb(33, 137, 185);
 }
 .submit{
-    size:50pt;
-    font-size:80pt;
-    margin-bottom:20%;
-    padding:7in;
+    font-size:60px;
+    margin-top:650px;
+    margin-left:5px;
+    margin-right:90px;
+    margin-bottom:20px;
+    padding-top:200px;
+    padding-left:5px;
+    padding-right:60px;
+    padding-top:20px;
+    padding-bottom:20px;
 }
 textarea {
     width: 100%;
@@ -54,8 +67,11 @@ textarea {
   }
     
 a{
-    margin:1pt;
-    font-size:60px;
+    margin-top:200px;
+    margin-left:60px;
+    padding-top:820px;
+    font-size:20px;
+
 }
 input[type=button], input[type=submit], input[type=reset] {
     font-size:100px;
