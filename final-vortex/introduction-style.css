@@ -3,10 +3,10 @@ html{
     background-image:url("transparent-spiral-video.mov");
 }
 body{
-    margin-top:50px;
-    padding-top:70px;
-    padding-left:600px;
-    padding-right:600px;
+    margin-top:20px;
+    padding-top:20px;
+    padding-left:40px;
+    padding-right:40px;
     font-family: 'Press Start 2P', cursive;
     color:white;
     font-size: 15px;
@@ -16,12 +16,44 @@ body{
 }
 .spiral-image{
     animation-iteration-count: infinite;
-    height:10px;
+    height:5px;
+    width:5px;
     padding-bottom:500px;
     padding-right:100px;
     padding-top:1px;
+    
 }
 h1{
+    padding-bottom:20px;
+    padding-right:20px;
+    padding-left:20px;
+    padding-top:20px;
+    animation: color-change 2s infinite;
+    font-family: 'Press Start 2P', cursive;
+    color:blueviolet;
+    font-size:60px;
+    position:center;
+}
+@keyframes color-change {
+    0% { color: rgb(247, 8, 247); }
+    20% { color: rgb(136, 18, 233); }
+    30% { color: rgb(77, 196, 30); }
+    40% {color: rgb(228, 115, 9); }
+    50% {color: red;}
+    60% {color:rgb(12, 241, 211);}
+    70% {color: rgb(28, 64, 184);}
+    80%{color:rgb(250, 250, 16);}
+    90% {color:chartreuse;}
+    100% {color:rgb(247, 8, 247);}
+  }
+a{
+font-size:30px;
+color:rgb(251, 255, 8);
+
+}
+
+h1{
+    *\
     padding-bottom:40px;
     padding-right:600px;
     padding-left:600px;
@@ -31,7 +63,7 @@ h1{
     animation: color-change 2s infinite;
     font-family: 'Press Start 2P', cursive;
     color:blueviolet;
-    font-size:70px;
+    font-size:60px;
     position:center;
 }
       
@@ -48,7 +80,7 @@ h1{
         100% {color:rgb(247, 8, 247);}
       }
 a{
-    font-size:12px;
+    font-size:30px;
     color:rgb(251, 255, 8);
     
 
