@@ -1,17 +1,18 @@
 html{
-    background-color: white;
+    background-color: black;
 }
 h1{
-    font-size:40px;
-    color:black;
+    font-size:60px;
+    color:white;
     font-family:'Fontdiner Swanky', cursive;
     position: relative;
     text-align: center;
+    margin-bottom:130px;
 
 }
 h2{
     font-size:15px;
-    color:black;
+    color:white;
     font-family:'Fontdiner Swanky', cursive;
     float:right;
     padding-right:20px;
@@ -19,7 +20,7 @@ h2{
 }
 body{
     font-size:30px;
-    color:black;
+    color:white;
     font-family: 'Fontdiner Swanky', cursive;
     padding:20px;
 
@@ -27,8 +28,8 @@ body{
 
 
 .large-circle {
-    background:transparent;
-    border:10px solid black;
+    background:rgb(230, 227, 227);
+    border:10px solid white;
     border-radius: 50%;
     width: 800px;
     height: 800px;
@@ -51,8 +52,9 @@ body{
 
  }
  .circle-style {
-    border: 20px solid orange;
+    border: 5px solid black;
     position: absolute;
+  
  }
 .circle-one{
     height: 90px;
@@ -65,8 +67,8 @@ body{
     font-family: 'Fontdiner Swanky', cursive;
     background-color: rgb(153, 11, 248);
     text-align:center;
-    top: -50px;
-    left:  320px; 
+    top: -105px;
+    left:  370px; 
 }
 
 
@@ -80,22 +82,158 @@ body{
     font-size: 16px;
     word-wrap: break-word;
     font-family: 'Fontdiner Swanky', cursive;
-    background-color: rgb(153, 11, 248);
     text-align:center;
-    top: 100px;
-    left:  720px; 
-    background-color: aqua;
+    top: -40px;
+    left:  560px;
+    background-color: rgb(197, 82, 178);
 }
-
-
+.circle-three{
+        height: 90px;
+        width: 90px;
+        border-radius: 50%;
+        border-radius: 50%;
+        padding: 30px;
+        font-size: 16px;
+        font-family: 'Fontdiner Swanky', cursive;
+        text-align:center;
+        top: 130px;
+        left: 720px; 
+        background-color: rgb(93, 95, 216);
+    
+}
+.circle-four{
+        height: 90px;
+        width: 90px;
+        border-radius: 50%;
+        border-radius: 50%;
+        padding: 30px;
+        font-size: 16px;
+        font-family: 'Fontdiner Swanky', cursive;
+        text-align:center;
+        top: 350px;
+        left: 740px; 
+        background-color: rgb(82, 149, 158);
+}
+.circle-five{
+    height: 90px;
+        width: 90px;
+        border-radius: 50%;
+        border-radius: 50%;
+        padding: 30px;
+        font-size: 16px;
+        font-family: 'Fontdiner Swanky', cursive;
+        text-align:center;
+        top: 560px;
+        left: 650px; 
+        background-color: rgb(82, 158, 126);
+        border:5px solid black;
+}
+.circle-six{
+    height: 90px;
+        width: 90px;
+        border-radius: 50%;
+        border-radius: 50%;
+        padding: 30px;
+        font-size: 16px;
+        font-family: 'Fontdiner Swanky', cursive;
+        text-align:center;
+        top: 720px;
+        left: 490px; 
+        background-color: rgb(139, 202, 56);
+        border:5px solid black;
+       
+}
+.circle-seven{
+    height: 90px;
+    width: 90px;
+    border-radius: 50%;
+    border-radius: 50%;
+    padding: 30px;
+    font-size: 16px;
+    font-family: 'Fontdiner Swanky', cursive;
+    text-align:center;
+    top: 754px;
+    left:250px; 
+    background-color: rgb(219, 223, 7);
+    border:5px solid black;
+}
+.circle-eight{
+    height: 90px;
+    width: 90px;
+    border-radius: 50%;
+    border-radius: 50%;
+    padding: 30px;
+    font-size: 16px;
+    font-family: 'Fontdiner Swanky', cursive;
+    text-align:center;
+    top: 640px;
+    left: 40px; 
+    background-color: rgb(223, 129, 7);
+    border:5px solid black;
+}
+.circle-nine{
+    height: 90px;
+    width: 90px;
+    border-radius: 50%;
+    border-radius: 50%;
+    padding: 30px;
+    font-size: 16px;
+    font-family: 'Fontdiner Swanky', cursive;
+    text-align:center;
+    top: 440px;
+    left: -60px; 
+    background-color: rgb(223, 68, 7);
+    border:5px solid black;
+}
+.circle-ten{
+    height: 90px;
+    width: 90px;
+    border-radius: 50%;
+    border-radius: 50%;
+    padding: 30px;
+    font-size: 16px;
+    font-family: 'Fontdiner Swanky', cursive;
+    text-align:center;
+    top: 230px;
+    left: -80px; 
+    background-color: rgb(241, 13, 154);
+    border:5px solid black;
+}
+.circle-eleven{
+    height: 90px;
+    width: 90px;
+    border-radius: 50%;
+    border-radius: 50%;
+    padding: 30px;
+    font-size: 16px;
+    font-family: 'Fontdiner Swanky', cursive;
+    text-align:center;
+    top: 40px;
+    left: 20px; 
+    background-color: rgb(177, 75, 180);
+    border:5px solid black;
+}
+.circle-twelve{
+    height: 90px;
+    width: 90px;
+    border-radius: 50%;
+    border-radius: 50%;
+    padding: 30px;
+    font-size: 16px;
+    font-family: 'Fontdiner Swanky', cursive;
+    text-align:center;
+    top: -60px;
+    left: 180px; 
+    background-color: rgb(141, 135, 148);
+    border:5px solid black;
+}
 a {
-    display: block;
-  color:black;
+display: block;
+  color:white;
+  text-emphasis-color: black;
+  font-size:20px;
   
 
 }
 
-.circle-one{
-  color:white;
-}
  
