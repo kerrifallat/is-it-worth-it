@@ -4,7 +4,7 @@ html{
 .image{
     
     display:block;
-    float:right;
+    float:center;
     margin-right:70px;
     margin-left:20px;
     padding-right:120px;
@@ -15,7 +15,7 @@ html{
  body,.p{
     font-family: 'Permanent Marker', cursive;
     color:black;
-    font-size:15px;
+    font-size:20px;
     margin-right:70px;
     margin-left:70px;
     margin-top:20px;
@@ -27,7 +27,7 @@ html{
 h1{
     font-family: 'Permanent Marker', cursive;
     color:black;
-    font-size:70px;
+    font-size:80px;
     margin-top:5px;
     padding-top:5px;
 
