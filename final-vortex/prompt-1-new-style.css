@@ -8,20 +8,27 @@ h1{
 }
 .p{
     font-family:'Iceland', cursive;
-    font-size:80pt;
-    padding-left:1in;
-    margin-left:20pt;
+    font-size:40px;
+    padding-left:20px;
+    margin-left:20px;
 
 
 }
 .glitch-image{
-    height:50%;
-    padding:5in;
+    padding-top:50px;
+    margin-top:20px;
+    padding-left:20px;
+    padding-bottom:20px;
+    padding-right:20px;
+    display:block;
 }
 body{
     font-family:'Iceland', cursive;
-    font-size:80pt;
-    padding:5in;
+    font-size:60px;
+    padding-left:50px;
+    margin-left:50px;
+    margin-top:70px;
+    margin-bottom:20px;
 }
 .textbox{
     size:200%;
@@ -30,16 +37,18 @@ body{
     
 }
 input[type="text"] {
+font-size:40px;
     width: 200%;
     padding:600px;
     margin-bottom:50%;
     border:10pt solid black;
 }
 .submit{
-    size:50pt;
-    font-size:80pt;
-    margin-bottom:20%;
-    padding:7in;
+    font-size:60px;
+    margin-top:720px;
+    margin-left:10px;
+    margin-right:50px;
+
 }
 textarea {
     width: 100%;
@@ -53,8 +62,10 @@ textarea {
   }
     
 a{
-    margin:1pt;
-    font-size:60px;
+    margin-top:200px;
+    margin-left:60px;
+    padding-top:820px;
+    font-size:20px;
 }
 input[type=button], input[type=submit], input[type=reset] {
     font-size:100px;
@@ -67,4 +78,4 @@ input[type=button], input[type=submit], input[type=reset] {
     margin: 4px 2px;
     cursor: pointer;
   }
-  x
+  
