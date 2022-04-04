@@ -37,7 +37,7 @@ h1{
     100% {color:rgb(247, 8, 247);}
   }
 .p, body{
-    margin-top:50px;
+    margin-top:30px;
     padding-top:20px;
     font-family: 'Press Start 2P', cursive;
     color:white;
@@ -50,6 +50,7 @@ a{
 font-size:30px;
 color:rgb(251, 255, 8);
 animation: color-change 5s infinite;
+text-align: center;
 
 }
 @keyframes color-change {
@@ -68,8 +69,9 @@ animation: color-change 5s infinite;
 .return{
     margin-top:90px;
     padding-top:50px;
-    font-size:60px;
+    font-size:30px;
     color:aqua;
     animation: color-change 2s infinite;
+    text-align:center;
 }
 
