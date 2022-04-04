@@ -2,36 +2,27 @@ html{
     background-color:black;
     background-image:url("transparent-spiral-video.mov");
 }
-body{
-    margin-top:20px;
-    padding-top:20px;
-    padding-left:40px;
-    padding-right:40px;
-    font-family: 'Press Start 2P', cursive;
-    color:white;
-    font-size: 15px;
-
-}
 .spiral-image{
     animation-iteration-count: infinite;
-    max-height:2px;
-    max-width:2px;
     padding-bottom:500px;
     padding-right:100px;
-    padding-top:1px;
-    object-fit:contain;
+    padding-top:10px;
+   
     
 }
 h1{
-    padding-bottom:20px;
+    padding-bottom:10px;
     padding-right:20px;
     padding-left:20px;
-    padding-top:20px;
+    padding-top:-200px;
+    margin-top:-800px;
+    margin-left:50px;
+    margin-bottom:130px;
     animation: color-change 2s infinite;
     font-family: 'Press Start 2P', cursive;
     color:blueviolet;
-    font-size:60px;
-    position:center;
+    font-size:70px;
+   
 }
 @keyframes color-change {
     0% { color: rgb(247, 8, 247); }
@@ -45,42 +36,40 @@ h1{
     90% {color:chartreuse;}
     100% {color:rgb(247, 8, 247);}
   }
+.p, body{
+    margin-top:50px;
+    padding-top:20px;
+    font-family: 'Press Start 2P', cursive;
+    color:white;
+    font-size: 25px;
+    text-align: center;
+
+}
+
 a{
 font-size:30px;
 color:rgb(251, 255, 8);
+animation: color-change 5s infinite;
 
 }
-
-h1{
-    *\
-    padding-bottom:40px;
-    padding-right:600px;
-    padding-left:600px;
-    padding-top:70px;
-    margin-top:70px;
-    margin-bottom:300px;
-    animation: color-change 2s infinite;
-    font-family: 'Press Start 2P', cursive;
-    color:blueviolet;
-    font-size:60px;
-    position:center;
-}
-      
 @keyframes color-change {
-        0% { color: rgb(247, 8, 247); }
-        20% { color: rgb(136, 18, 233); }
-        30% { color: rgb(77, 196, 30); }
-        40% {color: rgb(228, 115, 9); }
-        50% {color: red;}
-        60% {color:rgb(12, 241, 211);}
-        70% {color: rgb(28, 64, 184);}
-        80%{color:rgb(250, 250, 16);}
-        90% {color:chartreuse;}
-        100% {color:rgb(247, 8, 247);}
-      }
-a{
-    font-size:30px;
-    color:rgb(251, 255, 8);
-    
+    0% { color: rgb(247, 8, 247); }
+    20% { color: rgb(136, 18, 233); }
+    30% { color: rgb(77, 196, 30); }
+    40% {color: rgb(228, 115, 9); }
+    50% {color: red;}
+    60% {color:rgb(12, 241, 211);}
+    70% {color: rgb(28, 64, 184);}
+    80%{color:rgb(250, 250, 16);}
+    90% {color:chartreuse;}
+    100% {color:rgb(247, 8, 247);}
+  }
 
+.return{
+    margin-top:90px;
+    padding-top:50px;
+    font-size:60px;
+    color:aqua;
+    animation: color-change 2s infinite;
 }
+
