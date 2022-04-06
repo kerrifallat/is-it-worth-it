@@ -55,13 +55,6 @@ textarea {
     resize: none;
   }
     
-a{
-    margin-top:200px;
-    margin-left:60px;
-    padding-top:820px;
-    font-size:20px;
-
-}
 input[type=button], input[type=submit], input[type=reset] {
     font-size:100px;
     font-family: 'Iceland', cursive;;
@@ -73,4 +66,19 @@ input[type=button], input[type=submit], input[type=reset] {
     margin: 4px 2px;
     cursor: pointer;
   }
-  
+  a{
+    margin-top:600px;
+    padding-top:50px;
+    font-size:100px;
+    font-family: 'Averia Gruesa Libre', cursive;
+    background-color: #04AA6D;
+    color: black;
+    padding: 70px 100px;
+    text-decoration: none;
+   
+}
+.submit{
+    margin-top:740px;
+    padding-top:50px;
+
+}
