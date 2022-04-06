@@ -1,39 +1,45 @@
 html{
     background-color: white;
     border:10px dotted red;
-    margin-left:1in;
-    margin-right:1in;
-    margin-top:1in;
-    margin-bottom:1in;
+    margin-left:50px;
+    margin-right:50px;
+    margin-top:10px;
+    margin-bottom:10px;
     
 }
 .arms-column,.arms-top-2{
-    max-height: 5pt;
     float:left;
-    padding-bottom:600pt;
+    padding-bottom:60px;
     flex-direction:column;
     
     
 }
 .barbie-image{
-    height:80%;
-    margin-top:1000pt;
-    margin-bottom:40pt;
-    padding-top:40pt;
-    border:12pt solid red;
-    border-radius: 10pt;
-    border-width:10%;
-    
-   
-   
-    
-
+    margin-top:50px;
+    padding-top:30px;
+    margin-bottom:20px;
+    margin-right:10px;
+    margin-left:800px;
+    padding-left:800px;
+    transform:rotate(90deg);
 }
 body{
     margin-top:40px;
     font-family:'Nothing You Could Do', cursive; 
-    font-size:50pt;
+    font-size:50px;
     color:red;
-    padding-left:600pt;
-    padding-right:60pt;
+    padding-left:600px;
+    padding-right:60px;
 }
+
+  .hover-barbie:hover {
+    display: inline;
+    cursor: pointer;
+    margin-top:50px;
+    padding-top:30px;
+    margin-bottom:20px;
+    margin-right:10px;
+    margin-left:800px;
+    padding-left:800px;
+
+  }
