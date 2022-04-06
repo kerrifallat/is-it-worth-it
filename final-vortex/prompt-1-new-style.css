@@ -49,12 +49,7 @@ font-size:40px;
     padding:600px;
     margin-bottom:50%;
     border:10pt solid black;
-}
-.submit{
-    font-size:60px;
-    margin-top:720px;
-    margin-left:10px;
-    margin-right:50px;
+
 
 }
 textarea {
@@ -67,13 +62,7 @@ textarea {
     background-color: #f8f8f8;
     resize: none;
   }
-    
-a{
-    margin-top:200px;
-    margin-left:60px;
-    padding-top:820px;
-    font-size:20px;
-}
+
 input[type=button], input[type=submit], input[type=reset] {
     font-size:100px;
     font-family: 'Iceland', cursive;;
@@ -85,4 +74,19 @@ input[type=button], input[type=submit], input[type=reset] {
     margin: 4px 2px;
     cursor: pointer;
   }
-  
+a{
+    margin-top:600px;
+    padding-top:50px;
+    font-size:100px;
+    font-family: 'Iceland', cursive;;
+    background-color: #04AA6D;
+    color: black;
+    padding: 70px 100px;
+    text-decoration: none;
+   
+}
+.submit{
+    margin-top:740px;
+    padding-top:50px;
+
+}
