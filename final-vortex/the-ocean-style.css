@@ -1,0 +1,25 @@
+html{
+    background-color: rgb(104, 174, 174);
+}
+h1{
+    font-family: 'Dokdo', cursive;
+    color:black;
+    padding-left:20px;
+    padding-right:20px;
+    margin-left:10px;
+    font-size:50px;
+}
+body{
+    margin-left:20px;;
+    font-size:20px;
+    font-family:'Dokdo', cursive; 
+    color:black;
+    padding-left:20px;
+    padding-right:20px;
+
+}
+.beach-chair-image{
+    margin-left:20px;
+    padding-left:10px;
+
+}

@@ -1,0 +1,30 @@
+html{
+    background-image:url("mattress-texture.jpeg")
+    
+}
+h1{
+    color:black;
+    font-size:30px;
+  font-family: 'Special Elite', cursive;
+    margin-top:70px;
+    margin-left:40px;
+    margin-right:40px;
+    margin-bottom:50px;
+    padding-top:20px;
+    padding-right:30px;
+    padding-left:30px;
+    padding-bottom:30px;
+}
+body{
+    font-family: 'Advent Pro', sans-serif;
+    color:rgb(4, 4, 4);
+    font-size:20px;
+    margin-top:70px;
+    margin-left:40px;
+    margin-right:40px;
+    margin-bottom:50px;
+    padding-top:20px;
+    padding-right:30px;
+    padding-left:30px;
+    padding-bottom:30px;
+}

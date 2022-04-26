@@ -1,0 +1,31 @@
+html{
+    background-color:orange;
+}
+h1{
+    font-size:50px;
+    color:rgb(218, 107, 48);
+    font-family: 'Luckiest Guy', cursive;
+    margin-top:50px;
+    margin-left:40px;
+    margin-right:40px;
+    margin-bottom:50px;
+    padding-top:20px;
+    padding-left:20px;
+    padding-right:20px;
+    padding-bottom:20px;
+
+
+}
+body{
+    font-family: 'Special Elite', cursive;
+    font-size:14px;
+    color:black;
+    margin-top:50px;
+    margin-left:40px;
+    margin-right:40px;
+    margin-bottom:50px;
+    padding-top:20px;
+    padding-left:20px;
+    padding-right:20px;
+    padding-bottom:20px;
+}

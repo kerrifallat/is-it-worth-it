@@ -1,6 +1,50 @@
 html{
-    background-color: white;
+    background-color: rgb(121, 190, 168);
+    border: 10px dotted rgb(234, 189, 10);
 }
 h1{
-    
+    font-size:60px;
+    font-family: 'Tapestry', cursive;
+    color:black;
+    margin-left:70px;
+    margin-right:10px;
+    margin-top:70px;
+    margin-bottom:30px;
+    padding-left:70px;
+    padding-right:10px;
+    padding-top:20px;
+    padding-bottom:30px;
+
+}
+body{
+    font-size:35px;
+    color:pink;
+    text-decoration:none;
+    font-family: 'Orelega One', cursive;
+    margin-left:20px;
+    margin-right:20px;
+    margin-top:50px;
+    margin-top:20px;
+    padding-left:30px;
+    padding-right:30px;
+    padding-top:10px;
+    padding-bottom:5px;
+
+
+}
+a{
+    font-size:35px;
+    color:pink;
+    text-decoration: none;
+    text-decoration-color: rgb(215, 182, 12);
+    font-family: 'Orelega One', cursive;
+    margin-left:20px;
+    margin-right:20px;
+    margin-top:50px;
+    margin-top:20px;
+    padding-left:30px;
+    padding-right:30px;
+    padding-top:10px;
+    padding-bottom:5px;
+
 }
