@@ -25,7 +25,7 @@ h2{
 }
 body{
     margin-left:20px;;
-    font-size:20px;
+    font-size:40px;
     font-family:'Dokdo', cursive; 
     color:black;
     padding-left:20px;
@@ -37,9 +37,9 @@ body{
     margin-right:20px;
     padding-right:20px;
     padding-left:20px;
-    font-size:20px;
+    font-size:40px;
 }
 a{
-    font-size:20px;
-    color:black;
+    font-size:40px;
+    color:purple;
 }
