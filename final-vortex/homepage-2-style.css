@@ -127,6 +127,7 @@ body{
         left: 650px; 
         background-color: rgb(82, 158, 126);
         border:5px solid black;
+        word-wrap: break-word;
 }
 .circle-six{
     height: 90px;
