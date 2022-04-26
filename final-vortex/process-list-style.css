@@ -1,0 +1,16 @@
+html{
+    background-color:rgb(223, 223, 124);
+}
+h1{
+    font-size:40px;
+    color:black;
+    margin-top:40px;
+    padding-top:40px;
+
+}
+body{
+    font-size:15px;
+    color:black;
+    margin-left:40px;
+    padding-left:30px;
+}
