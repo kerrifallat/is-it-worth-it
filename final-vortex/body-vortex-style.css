@@ -19,7 +19,7 @@ html{
     padding-left:900px;
    
 }
-body{
+.poem,body{
     margin-top:40px;
     font-family:'Nothing You Could Do', cursive; 
     font-size:50px;
@@ -40,11 +40,287 @@ body{
 
   }
   h1{
-    margin-top:50px;
-    padding-top:30px;
-    margin-bottom:80px;
-    padding-bottom:40px;
-    font-family:'Nothing You Could Do', cursive; 
-    font-size:80px;
+    margin-left:1200px;
+    font-family:'Abril Fatface', cursive; 
+    font-size:200px;
     color:red;
   }
+  h2{
+    margin-left:1700px;
+    font-family:'Abril Fatface', cursive; 
+    font-size:70px;
+    color:red;
+  }
+  .rules{
+    font-family:'Nothing You Could Do', cursive; 
+    color:black;
+  }
+  .insurance{
+    font-family:'Nothing You Could Do', cursive; 
+    color:black;
+  }
+  .but{
+    margin-top:40px;
+    font-family:'Nothing You Could Do', cursive; 
+    font-size:50px;
+    color:red;
+    padding-left:600px;
+    padding-right:60px;
+  }
+  .question-remains{
+    font-family:'Nothing You Could Do', cursive; 
+    color:black;
+  }
+  .can{
+    margin-top:40px;
+    font-family:'Nothing You Could Do', cursive; 
+    font-size:50px;
+    color:red;
+    padding-left:600px;
+    padding-right:60px;
+  }
+  .the-body{
+    font-family:'Nothing You Could Do', cursive; 
+    color:black;
+  }
+  .bodies{
+    margin-top:40px;
+    font-family:'Nothing You Could Do', cursive; 
+    font-size:50px;
+    color:red;
+    padding-left:600px;
+    padding-right:60px;
+  }
+  .react{
+    font-family:'Nothing You Could Do', cursive; 
+    color:black;
+  }
+  .heal-in-a-similiar{
+    margin-top:40px;
+    font-family:'Nothing You Could Do', cursive; 
+    font-size:50px;
+    color:red;
+    padding-left:600px;
+    padding-right:60px;
+  }
+  .in-many-ways{
+    font-family:'Nothing You Could Do', cursive; 
+    color:black;
+  }
+  .i-feel-like{
+    margin-top:40px;
+    font-family:'Nothing You Could Do', cursive; 
+    font-size:50px;
+    color:red;
+    padding-left:600px;
+    padding-right:60px;
+  }
+  .it-cannot{
+    font-family:'Nothing You Could Do', cursive; 
+    color:black;
+  }
+  .it-wont{
+    margin-top:40px;
+    font-family:'Nothing You Could Do', cursive; 
+    font-size:50px;
+    color:red;
+    padding-left:600px;
+    padding-right:60px;
+  }
+  .the-body-two{
+    font-family:'Nothing You Could Do', cursive; 
+    color:black;
+  }
+  .like-a-fridge{
+    margin-top:40px;
+    font-family:'Nothing You Could Do', cursive; 
+    font-size:50px;
+    color:red;
+    padding-left:600px;
+    padding-right:60px;
+  }
+  .becomes{
+    font-family:'Nothing You Could Do', cursive; 
+    color:black;
+  }
+  .or-a{
+    margin-top:40px;
+    font-family:'Nothing You Could Do', cursive; 
+    font-size:50px;
+    color:red;
+    padding-left:600px;
+    padding-right:60px;
+  }
+  .crookpot{
+    margin-top:40px;
+    font-family:'Nothing You Could Do', cursive; 
+    font-size:50px;
+    color:red;
+    padding-left:600px;
+    padding-right:60px;
+  }
+  .a{
+    font-family:'Nothing You Could Do', cursive; 
+    color:black;
+  }
+  .through-these-rules{
+    font-family:'Nothing You Could Do', cursive; 
+    color:black;
+  }
+  .formula{
+    font-family:'Nothing You Could Do', cursive; 
+    color:black;
+  }
+  .that-are{
+    margin-top:40px;
+    font-family:'Nothing You Could Do', cursive; 
+    font-size:50px;
+    color:red;
+    padding-left:600px;
+    padding-right:60px;
+  }
+  .react{
+    font-family:'Nothing You Could Do', cursive; 
+    color:black;
+  }
+  .through-these-rules{
+    font-family:'Nothing You Could Do', cursive; 
+    color:black;
+  }
+  .formula{
+    font-family:'Nothing You Could Do', cursive; 
+    color:black;
+  }
+  .heal-in-a-similiar{
+    margin-top:40px;
+    font-family:'Nothing You Could Do', cursive; 
+    font-size:50px;
+    color:red;
+    padding-left:600px;
+    padding-right:60px;
+  }
+  .in-many-ways{
+    font-family:'Nothing You Could Do', cursive; 
+    color:black;
+  }
+  .i-feel-like{
+    margin-top:40px;
+    font-family:'Nothing You Could Do', cursive; 
+    font-size:50px;
+    color:red;
+    padding-left:600px;
+    padding-right:60px;
+  }
+  .it-cannot{
+    font-family:'Nothing You Could Do', cursive; 
+    color:black;
+  }
+  .it-wont{
+    margin-top:40px;
+    font-family:'Nothing You Could Do', cursive; 
+    font-size:50px;
+    color:red;
+    padding-left:600px;
+    padding-right:60px;
+  }
+  .the-body-two{
+    font-family:'Nothing You Could Do', cursive; 
+    color:black;
+  }
+  .like-a-fridge{
+    margin-top:40px;
+    font-family:'Nothing You Could Do', cursive; 
+    font-size:50px;
+    color:red;
+    padding-left:600px;
+    padding-right:60px;
+  }
+  .becomes{
+    font-family:'Nothing You Could Do', cursive; 
+    color:black;
+  }
+  .a{
+    font-family:'Nothing You Could Do', cursive; 
+    color:black;
+  }
+  .or-a{
+    margin-top:40px;
+    font-family:'Nothing You Could Do', cursive; 
+    font-size:50px;
+    color:red;
+    padding-left:600px;
+    padding-right:60px;
+  }
+  .crookpot{
+    margin-top:40px;
+    font-family:'Nothing You Could Do', cursive; 
+    font-size:50px;
+    color:red;
+    padding-left:600px;
+    padding-right:60px;
+  }
+  .thick{
+    font-family:'Nothing You Could Do', cursive; 
+    color:black;
+  }
+.absorbing-and-remembering{
+  font-family:'Nothing You Could Do', cursive; 
+  color:black;
+}
+.holding{
+  font-family:'Nothing You Could Do', cursive; 
+  color:black;
+}
+.onto-the-past{
+  font-family:'Nothing You Could Do', cursive; 
+  color:black;
+}
+.cycles-of-time{
+  font-family:'Nothing You Could Do', cursive; 
+  color:black;
+}
+.speed-past{
+  font-family:'Nothing You Could Do', cursive; 
+  color:black;
+}
+.baked-into-our-makeup{
+  font-family:'Nothing You Could Do', cursive; 
+  color:black;
+}
+.cooking{
+  margin-top:40px;
+    font-family:'Nothing You Could Do', cursive; 
+    font-size:50px;
+    color:red;
+    padding-left:600px;
+    padding-right:60px;
+}
+.simmering{
+  margin-top:40px;
+    font-family:'Nothing You Could Do', cursive; 
+    font-size:50px;
+    color:red;
+    padding-left:600px;
+    padding-right:60px;
+}
+.and-slushing{
+  margin-top:40px;
+    font-family:'Nothing You Could Do', cursive; 
+    font-size:50px;
+    color:red;
+    padding-left:600px;
+    padding-right:60px;
+    margin-bottom:30px;
+    padding-bottom:50px;
+}
+.storing{
+  margin-top:40px;
+    font-family:'Nothing You Could Do', cursive; 
+    font-size:50px;
+    color:red;
+    padding-left:600px;
+    padding-right:60px;
+}
+a{
+  color:rgb(102, 186, 34);
+}
