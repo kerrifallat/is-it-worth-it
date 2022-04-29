@@ -2,20 +2,26 @@ html{
     background-color: white;
 }
 h1{
-    font-size:90pt;
+    font-size:45px;
     font-family: 'Caveat', cursive;
     color:blue;
-    margin: top 1in;
-    margin-left:2in;
-    margin-right:2in;
-    margin-bottom:1in;
+    margin-top:50px;
+    margin-left:50px;
+    margin-right:50px;
+    margin-bottom:50px;
     padding:10px;
 }
 
 body{
     font-family: 'Caveat', cursive;
-    font-size:50pt;
+    font-size:25px;
     color: blue;
-    margin:2in 2in 2in 2in;
-    padding: 2in 2in 2in 2in;
+    margin:50px 50px 50px 50px;
+   
+}
+a{
+    font-family: 'Caveat', cursive;
+    font-size:25px;
+    color:red;
+    
 }

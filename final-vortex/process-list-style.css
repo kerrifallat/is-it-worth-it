@@ -9,8 +9,14 @@ h1{
 
 }
 body{
-    font-size:15px;
+    font-size:20px;
     color:black;
     margin-left:40px;
     padding-left:30px;
+    margin-bottom:50px;
+    padding-bottom:40px;
+}
+.return-to-homepage,.return-to-process-house,a{
+    margin-top:70px;
+    padding-top:20px;
 }

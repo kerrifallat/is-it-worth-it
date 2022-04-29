@@ -1,0 +1,30 @@
+html{
+    background-color:black;
+}
+h1{
+    color:white;
+    font-size:40px;
+    margin-top:70px;
+    padding-top:20px;
+    margin-right:80px;
+    margin-left:80px;
+    margin-bottom:40px;
+    padding-bottom:30px;
+    font-family: 'Jost', sans-serif;
+}
+body{
+    font-family: 'Jost', sans-serif;
+    color:white;
+    font-size:20px;
+    margin-top:70px;
+    padding-top:20px;
+    margin-right:80px;
+    margin-left:80px;
+    margin-bottom:40px;
+    padding-bottom:10px;
+}
+a{
+    color:orange;
+    font-family: 'Jost', sans-serif;
+    font-size:20px;
+}
