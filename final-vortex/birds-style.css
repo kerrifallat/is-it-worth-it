@@ -1,0 +1,100 @@
+html{
+    background-color:rgb(191, 229, 229);
+}
+h1{
+    font-size:80px;
+    color:rgb(39, 4, 120);
+    font-family: 'Kalam', cursive;
+    margin-left:40px;
+    padding-left:20px;
+
+}
+.woodpecker{
+    color:rgb(101, 100, 93);
+    font-size:25px;
+    font-family: 'Kalam', cursive;
+    margin-left:40px;
+    padding-left:20px;
+
+}
+.walking{
+    color:rgb(101, 100, 93);
+    font-size:25px;
+    font-family: 'Kalam', cursive;
+    margin-left:40px;
+    padding-left:20px;
+}
+.morning-birds{
+    color:rgb(101, 100, 93);
+    font-size:25px;
+    font-family: 'Kalam', cursive;
+    margin-left:40px;
+    padding-left:20px;
+}
+.more-birds{
+    color:rgb(101, 100, 93);
+    font-size:25px;
+    font-family: 'Kalam', cursive;
+    margin-left:40px;
+    padding-left:20px;
+}
+.frogs{
+    color:rgb(101, 100, 93);
+    font-size:25px;
+    font-family: 'Kalam', cursive;
+    margin-left:40px;
+    padding-left:20px;
+}
+audio{
+    margin-left:40px;
+    padding-left:20px;
+}
+a{
+    font-size:25px;
+    font-family: 'Kalam', cursive;
+    color:rgb(73, 164, 134);
+    margin-top:30px;
+    padding-top:30px;
+    margin-left:40px;
+    padding-left:20px;
+    margin-bottom:40px;
+    padding-bottom:20px;
+    margin-right:40px;
+    padding-right:20px;
+
+}
+/* unvisited link */
+a:link {
+    color: rgb(231, 216, 8);
+    padding-top:20px;
+    text-emphasis-color: black;
+    font-weight: bold;
+    text-align: center;
+  }
+  
+  /* visited link */
+  a:visited {
+    color:rgb(147, 100, 201);
+    text-emphasis-color: black;
+    font-weight: bold;
+    padding-top:20px;
+    text-align:center;
+  }
+  
+  /* mouse over link */
+  a:hover {
+    color:rgb(73, 164, 134);
+    text-emphasis-color: black;
+    font-weight: bold;
+    padding-top:20px;
+    text-align: center;
+  }
+  
+  /* selected link */
+  a:active {
+    color: rgb(80, 160, 216);
+    text-emphasis-color: black;
+    font-weight: bold;
+    padding-top:20px;
+    text-align: center;
+  }
