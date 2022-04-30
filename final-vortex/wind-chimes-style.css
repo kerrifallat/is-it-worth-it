@@ -35,6 +35,10 @@ h1{
 
 
 }
+a{
+  text-decoration: none;
+  color:rgb(179, 50, 179);
+}
 
 a:link{
 /* unvisited link */
@@ -42,7 +46,6 @@ color: hotpink;
 
 }
   
-}
   /* visited link */
   a:visited {
     color: green;
