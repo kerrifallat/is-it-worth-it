@@ -48,3 +48,32 @@ a{
     padding-bottom:5px;
 
 }
+
+/* unvisited link */
+a:link {
+    color: rgb(231, 216, 8);
+    text-emphasis-color: black;
+    
+  }
+  
+  /* visited link */
+  a:visited {
+    color:rgb(120, 2, 255);
+    text-emphasis-color: black;
+    
+  }
+  
+  /* mouse over link */
+  a:hover {
+    color: rgb(255, 255, 255);
+    text-emphasis-color: black;
+    
+   
+  }
+  
+  /* selected link */
+  a:active {
+    color: rgb(238, 159, 13);
+    text-emphasis-color: black;
+   
+  }
