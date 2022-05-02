@@ -22,7 +22,7 @@ html{
 .poem,body{
     margin-top:40px;
     font-family:'Nothing You Could Do', cursive; 
-    font-size:50px;
+    font-size:40px;
     color:red;
     padding-left:600px;
     padding-right:60px;
@@ -42,13 +42,13 @@ html{
   h1{
     margin-left:1200px;
     font-family:'Abril Fatface', cursive; 
-    font-size:200px;
+    font-size:75px;
     color:red;
   }
   h2{
     margin-left:1700px;
     font-family:'Abril Fatface', cursive; 
-    font-size:70px;
+    font-size:50px;
     color:red;
   }
   .rules{
