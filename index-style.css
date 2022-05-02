@@ -4,9 +4,10 @@ a{
     
 }
 h1{
-    color:aquamarine;
+    color:white;
+    font-family: 'Indie Flower', cursive;
     font-size:60px;
-    padding-left:20px;
+    padding-left:50px;
     padding-right:20px;
     padding-top:20px;
     padding-bottom:20px;
@@ -16,14 +17,28 @@ h1{
     margin-bottom:30px;
 
 }
+h2{
+    color:white;
+    font-family: 'Indie Flower', cursive;
+    font-size:15px;
+    padding-left:20px;
+}
 html{
     background-color: black;
+}
+.column-left{
+    float:left;
+    width:50%;
+
+}
+.column-right{
+    float:right;
+    width:50%;
 }
 
 .cloud{
     font-family:'Rubik Puddles', cursive;
-    font-size:40px;
-    border:5px dashed rgb(223, 201, 7);
+    font-size:30px;
     padding-left:20px;
     padding-right:20px;
     padding-top:20px;
@@ -37,8 +52,7 @@ html{
 }
 .remember-index{
     font-family: 'Amatic SC', cursive;
-    font-size:40px;
-    border:5px dashed blue;
+    font-size:30px;
     padding-left:20px;
     padding-right:20px;
     padding-top:20px;
@@ -51,8 +65,7 @@ html{
 }
 .avoid{
     font-family: 'Rock Salt', cursive;
-    font-size:40px;
-    border:5px dashed rgb(86, 86, 236);
+    font-size:30px;
     padding-left:20px;
     padding-right:20px;
     padding-top:20px;
@@ -65,8 +78,7 @@ html{
 }
 .details{
     font-family: 'Six Caps', sans-serif;
-    font-size:40px;
-    border:5px dashed rgb(32, 231, 108);
+    font-size:30px;
     padding-left:20px;
     padding-right:20px;
     padding-top:20px;
@@ -79,8 +91,7 @@ html{
 }
 .exhaustion{
     font-family: 'Nothing You Could Do', cursive;
-    font-size:40px;
-    border:5px dashed rgb(17, 209, 223);
+    font-size:30px;
     padding-left:20px;
     padding-right:20px;
     padding-top:20px;
@@ -92,8 +103,7 @@ html{
 }
 .open-text{
     font-family: 'Rock 3D', cursive;
-    font-size:40px;
-    border:5px dashed rgb(24, 206, 145);
+    font-size:30px;
     padding-left:20px;
     padding-right:20px;
     padding-top:20px;
@@ -105,8 +115,7 @@ html{
 }
 .declarative-text-origin{
     font-family: 'Mate SC', serif;
-    font-size:40px;
-    border:5px dashed rgb(0, 255, 149);
+    font-size:30px;
     padding-left:20px;
     padding-right:20px;
     padding-top:20px;
@@ -118,8 +127,7 @@ html{
 }
 .index-of-details{
     font-family: 'Dongle', sans-serif;
-    font-size:40px;
-    border:5px dashed greenyellow;
+    font-size:30px;
     padding-left:20px;
     padding-right:20px;
     padding-top:20px;
@@ -131,8 +139,7 @@ html{
 }
 .overflow{
     font-family: 'Dongle', sans-serif;
-    font-size:40px;
-    border:5px dashed rgb(234, 255, 47);
+    font-size:30px;
     padding-left:20px;
     padding-right:20px;
     padding-top:20px;
@@ -145,8 +152,7 @@ html{
 }
 .declarative-text-without-bg-image{
     font-family: 'Cinzel Decorative', cursive;
-    font-size:40px;
-    border:5px dashed rgb(226, 103, 59);
+    font-size:30px;
     padding-left:20px;
     padding-right:20px;
     padding-top:20px;
@@ -159,8 +165,7 @@ html{
 }
 .declarative-text-java{
     font-family: 'Graduate', cursive;
-    font-size:40px;
-    border:5px dashed orange;
+    font-size:30px;
     padding-left:20px;
     padding-right:20px;
     padding-top:20px;
@@ -174,8 +179,7 @@ html{
 }
 .text-scramble{
     font-family: 'Bowlby One SC', cursive;
-    font-size:40px;
-    border:5px dashed red;
+    font-size:30px;
     padding-left:20px;
     padding-right:20px;
     padding-top:20px;
@@ -187,8 +191,7 @@ html{
 
 }
 .final-project{
-    font-size:40px;
-    border:5px dashed rgb(172, 55, 141);
+    font-size:30px;
     padding-left:20px;
     padding-right:20px;
     padding-top:20px;
@@ -198,4 +201,17 @@ html{
     margin-right:30px;
     margin-bottom:30px;
 
+}
+.main-drawing{
+    padding-left:30px;
+    margin-top:40px;
+    padding-top:20px;
+    margin-left:50px;
+    margin-bottom:20px;
+    padding-bottom:20px;
+    border:10px solid white;
+    
+}
+a:hover{
+    color:hotpink;
 }

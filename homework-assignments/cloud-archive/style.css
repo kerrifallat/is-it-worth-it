@@ -7,7 +7,7 @@ body {
 
 a {
 color: hotpink;
-font-size: 136px;
+font-size: 20px;
 text-shadow: 2px 20px 50px yellow;
 text-decoration: none;
 border-bottom: 12px solid cornflowerblue;
@@ -32,12 +32,11 @@ background-color: thistle;
 color: navy;
 font-family: cursive;
 font-weight: bolder;
-line-height: 600px;
 text-shadow: 2px 20px 50px chartreuse;
 
 }
 
-p {
+.p {
   padding: 40px;
 }
 
@@ -45,8 +44,7 @@ p {
   display: block;
   margin: 80px 80px 80px 80px;
   border: 2px solid cornflowerblue;
-  border bottom: 0px;
-  font-size: 80px;
+  font-size: 20px;
   padding: 20px; 
 }
 
@@ -61,10 +59,4 @@ display: block;
 padding: 40px;
 }
 
-.ppp {
 
-  color: brown;
-  position: absolute;
-  top: 30%;
-  left: -5%;
-}

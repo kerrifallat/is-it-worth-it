@@ -1,0 +1,29 @@
+html{
+    background-color:rgb(83, 124, 83);
+}
+h1{
+    color:black;
+    font-family: 'Rajdhani', sans-serif;
+    font-size:40px;
+    margin-top:50px;
+    padding-top:30px;
+    margin-left:40px;
+    padding-left:30px;
+    margin-right:40px;
+    padding-right:30px;
+    margin-bottom:30px;
+    padding-bottom:20px;
+}
+.p,body{
+    color:black;
+    font-family: 'Rajdhani', sans-serif;
+    font-size:20px;
+    margin-top:50px;
+    padding-top:30px;
+    margin-left:40px;
+    padding-left:30px;
+    margin-right:40px;
+    padding-right:30px;
+    margin-bottom:30px;
+    padding-bottom:20px;
+}
