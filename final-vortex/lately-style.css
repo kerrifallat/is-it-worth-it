@@ -3,8 +3,8 @@ html{
 }
 h1{
     color:white;
-    font-family: 'Libre Franklin', sans-serif;
-    font-size:40px;
+    font-family: 'Kalam', cursive;
+    font-size:60px;
     margin-top:40px;
     margin-left:40px;
     margin-right:40px;
@@ -13,16 +13,21 @@ h1{
 }
 body{
     font-size:20px;
-    font-family: 'Libre Franklin', sans-serif;
+    font-family: 'Kalam', cursive;
     color:white;
     margin-top:40px;
-    margin-left:40px;
+    margin-left:70px;
+    padding-left:50px;
     margin-right:40px;
     margin-bottom:40px;
     padding-bottom:20px;
 }
 a{
     font-size:20px;
-    color:purple;
-    font-family: 'Libre Franklin', sans-serif;
+    color:rgb(168, 235, 43);
+    font-family: 'Kalam', cursive;
+    text-decoration: none;
+}
+a:hover{
+    color:aquamarine;
 }

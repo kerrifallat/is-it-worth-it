@@ -16,9 +16,9 @@ h1{
 
 }
 body{
-    font-family:'Dokdo', cursive; 
+    font-family: 'Source Sans Pro', sans-serif;
     color:black;
-    font-size:20px;
+    font-size:23px;
     margin-left:80px;
     margin-right:80px;
     margin-top:40px;
@@ -28,4 +28,11 @@ body{
     padding-top:10px;
     padding-bottom:10px;
 
+}
+a{
+    color:rgb(51, 54, 127);
+    text-decoration: none;
+}
+a:hover{
+    color:rgb(208, 177, 22);
 }

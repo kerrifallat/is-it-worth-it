@@ -15,14 +15,16 @@ img{
     
 }
 a{
-    color:aqua;
+    color:rgb(92, 242, 11);
     font-size:40px;
-    margin-top:30px;
-    margin-left:20px;
-    margin-right:20px;
-    margin-bottom:90px;
-    padding-top:30px;
-    padding-left:10px;
-    padding-right:10px;
-    padding-bottom:70px;
+    text-decoration: none;
+    font-family: 'Goldman', cursive;
+    background-color: black;
+    border:black solid 5px;
+    
+  
+   
+}
+a:hover{
+    color:rgb(39, 237, 230);
 }

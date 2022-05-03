@@ -69,4 +69,8 @@ body, .p{
 }
 a{
     color:hotpink;
+    text-decoration: none;
+}
+a:hover{
+    color:aqua;
 }

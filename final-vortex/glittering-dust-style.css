@@ -51,6 +51,8 @@ p{
 a{
   text-align:center;
   font-size:40px;
+  text-decoration: none;
+  color:white;
 }
 
 
@@ -65,7 +67,7 @@ a:link {
   
   /* visited link */
   a:visited {
-    color:rgb(120, 2, 255);
+    color:rgb(65, 63, 68);
     text-emphasis-color: black;
     font-weight: bold;
     padding-top:20px;
@@ -74,7 +76,7 @@ a:link {
   
   /* mouse over link */
   a:hover {
-    color: rgb(255, 255, 255);
+    color: aquamarine;
     text-emphasis-color: black;
     font-weight: bold;
     padding-top:20px;
@@ -87,5 +89,8 @@ a:link {
     text-emphasis-color: black;
     font-weight: bold;
     padding-top:20px;
+    text-align: center;
+  }
+  .link{
     text-align: center;
   }
