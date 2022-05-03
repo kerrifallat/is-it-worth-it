@@ -323,4 +323,8 @@ html{
 }
 a{
   color:rgb(102, 186, 34);
+  text-decoration: none;
+}
+a:hover{
+  color:blue;
 }
