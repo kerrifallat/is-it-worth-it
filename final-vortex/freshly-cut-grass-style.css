@@ -31,3 +31,10 @@ body{
     padding-bottom:20px;
 
 }
+a{
+    text-decoration: none;
+    color:rgb(118, 37, 193);
+}
+a:hover{
+    color:white;
+}

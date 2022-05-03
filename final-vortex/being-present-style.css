@@ -45,4 +45,11 @@ body{
     margin-bottom:10px;
     text-align:center;  
 }
+a{
+    text-decoration: none;
+    color:rgb(111, 36, 164);
+}
+a:hover{
+    color:rgb(219, 29, 29);
+}
 

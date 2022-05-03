@@ -41,5 +41,9 @@ body{
 }
 a{
     font-size:40px;
-    color:purple;
+    color:rgb(176, 31, 176);
+    text-decoration: none;
+}
+a:hover{
+    color:rgb(128, 122, 122);
 }
