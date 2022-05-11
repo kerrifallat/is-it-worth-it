@@ -74,6 +74,12 @@ input[type=button], input[type=submit], input[type=reset] {
     margin: 4px 2px;
     cursor: pointer;
   }
+  .letters-link{
+    font-size:60px;
+    text-decoration: none;
+    color:red;
+    background-color: none;
+}
 a{
     margin-top:600px;
     padding-top:50px;
